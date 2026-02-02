@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "coordinates": {
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    "heritageSites": [
+      {
+        "name": "Hawa Mahal",
+        "description": "An iconic palace made of red and pink sandstone, known as the Palace of Winds.",
+        "lat": 26.9239,
+        "lng": 75.8267
+      },
+      {
+        "name": "Amber Fort",
+        "description": "A majestic fort overlooking Maota Lake, showcasing Rajput architecture.",
+        "lat": 26.9855,
+        "lng": 75.8513
+      },
+      {
+        "name": "City Palace",
+        "description": "A historic royal residence with museums and courtyards.",
+        "lat": 26.9258,
+        "lng": 75.8237
+      }
+    ],
+    "localFoods": [
+      "Dal Baati Churma",
+      "Ghewar",
+      "Laal Maas"
+    ],
+    "festivals": [
+      {
+        "name": "Gangaur",
+        "month": "March–April",
+        "description": "A traditional festival celebrating Goddess Gauri."
+      },
+      {
+        "name": "Teej",
+        "month": "August",
+        "description": "A monsoon festival celebrated by women with songs and dances."
+      }
+    ]
+  },
+  {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "coordinates": {
+      "lat": 25.3176,
+      "lng": 82.9739
+    },
+    "heritageSites": [
+      {
+        "name": "Kashi Vishwanath Temple",
+        "description": "One of the most sacred temples dedicated to Lord Shiva.",
+        "lat": 25.3109,
+        "lng": 83.0107
+      },
+      {
+        "name": "Dashashwamedh Ghat",
+        "description": "A famous ghat known for the grand Ganga Aarti.",
+        "lat": 25.3066,
+        "lng": 83.0104
+      },
+      {
+        "name": "Sarnath",
+        "description": "A significant Buddhist site where Lord Buddha gave his first sermon.",
+        "lat": 25.3816,
+        "lng": 83.0213
+      }
+    ],
+    "localFoods": [
+      "Kachori Sabzi",
+      "Banarasi Paan",
+      "Malaiyyo"
+    ],
+    "festivals": [
+      {
+        "name": "Dev Deepawali",
+        "month": "November",
+        "description": "Festival of lights celebrated on the ghats of the Ganga."
+      },
+      {
+        "name": "Mahashivratri",
+        "month": "February–March",
+        "description": "A major festival dedicated to Lord Shiva."
+      }
+    ]
+  },
+  {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "coordinates": {
+      "lat": 26.8467,
+      "lng": 80.9462
+    },
+    "heritageSites": [
+      {
+        "name": "Bara Imambara",
+        "description": "An architectural marvel built by Nawab Asaf-ud-Daula, famous for the Bhool Bhulaiya.",
+        "lat": 26.8697,
+        "lng": 80.9139
+      },
+      {
+        "name": "Chota Imambara",
+        "description": "A historic monument known for its decorations and Islamic architecture.",
+        "lat": 26.8610,
+        "lng": 80.9110
+      },
+      {
+        "name": "Rumi Darwaza",
+        "description": "An iconic gateway symbolizing the grandeur of Awadhi architecture.",
+        "lat": 26.8690,
+        "lng": 80.9135
+      }
+    ],
+    "localFoods": [
+      "Tunday Kababi",
+      "Lucknawi Biryani",
+      "Sheermal"
+    ],
+    "festivals": [
+      {
+        "name": "Lucknow Mahotsav",
+        "month": "November–December",
+        "description": "A cultural festival showcasing Awadhi cuisine, crafts, and performances."
+      },
+      {
+        "name": "Eid-ul-Fitr",
+        "month": "Varies",
+        "description": "Celebrated with traditional food, culture, and community gatherings."
+      }
+    ]
+  }
+]
